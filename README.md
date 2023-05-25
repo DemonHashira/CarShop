@@ -13,6 +13,8 @@ Here're some of the project's best features:
 *   Edit a car
 *   Delete a Car
 *   Read a car
+*   Export a CSV file with the current cars
+*   Print a document with the cars 
 *  More features are implemented in the back-end that are not being shown in the front
 <h2>🛠️ Installation Steps:</h2>
 
